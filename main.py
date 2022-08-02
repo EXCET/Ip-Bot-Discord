@@ -7,7 +7,7 @@ import random
 import threading
 import requests
 
-token = "OTM0MTkyOTY5MDcyOTM1MDU1.GugHTq.AIDYANQpbKYHv1xvVV4k_RVATz3AansFJurhv0"
+token = "token-here"
 
 prefix = "!"
 
